@@ -1,1 +1,2 @@
 Arquivo cinco.2.txt
+Versão 5.2
