@@ -1,9 +1,9 @@
 # Nome do Projeto
 >Um resumo curto, com uma ou no máximo duas linhas, do que o seu projeto faz.
 
-Um ou dois parágrafos, com mais detalhes do resumo, sobre o ptojeto e o que ele faz.
+Um ou dois parágrafos, com mais detalhes do resumo, sobre o projeto e o que ele faz.
 
-![ ](projeto.jpg) 
+![](projeto.png) 
 
 ## Instalação
 
