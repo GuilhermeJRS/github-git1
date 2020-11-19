@@ -3,7 +3,7 @@
 
 Um ou dois parágrafos, com mais detalhes do resumo, sobre o ptojeto e o que ele faz.
 
-![](projeto.jpg) 
+![ ](projeto.jpg) 
 
 ## Instalação
 
